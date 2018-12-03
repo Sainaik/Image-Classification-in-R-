@@ -6,5 +6,7 @@ whether the given picture is of tigers or non tiger.
 For image pre-processing i used "Imager" Library.
 
 Training Data has 30  images
-Testing data Has 10 images
+Testing data has 10 images
+
+Happy Coding .
 
