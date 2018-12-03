@@ -1,4 +1,4 @@
-setwd("C:\\Users\\sai kumar naik\\Desktop\\ML project\\CDAC_PROJECT\\Data Set")
+setwd("Enterpath")
 library(keras)  # for building CNN 
 library(EBImage) # image processing
 library(tensorflow) # backend processing
@@ -36,6 +36,8 @@ for(i in 1:10)
   plot(test[[i]])
 }
 
+
+# Data Pre-Processing starts
 # resizing
 
 # 1. printing structure of images
